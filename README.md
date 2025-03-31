@@ -16,7 +16,7 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 
 ```bash
 git clone <URL_DU_DEPOT>
-cd <NOM_DU_PROJET>
+cd three.js-skeleton
 ```
 
 ### 2. Installer les dépendances
